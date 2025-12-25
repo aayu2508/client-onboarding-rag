@@ -47,8 +47,12 @@ Now, proceed to answer the employee's question. Your response should be direct, 
 
 WELCOME_MESSAGE = """
     Welcome to Umbrella Corporation.
+    
     Your integration into our operations has been noted.
+    
     As you begin your journey with us, you are expected to familiarize yourself with our internal protocols and guidelines. This assistant has been designed to guide you through the necessary procedures and respond to any questions you may have regarding your role, responsibilities, and the corporation’s policies.
+    
     Please proceed with your queries. Be aware that access to information is determined by your clearance level. Unauthorized inquiries will not be processed.
+    
     Your compliance ensures a seamless experience. Proceed with caution and adhere to the guidelines provided.
     """
